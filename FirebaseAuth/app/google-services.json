@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "449189979032",
+    "project_id": "fir-authone-9063c",
+    "storage_bucket": "fir-authone-9063c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449189979032:android:60ef09497c6dcf3bd441ed",
+        "android_client_info": {
+          "package_name": "com.example.firebaseauth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBctArqFh_nIrakNiUMz36CjxnVgBkI5QQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

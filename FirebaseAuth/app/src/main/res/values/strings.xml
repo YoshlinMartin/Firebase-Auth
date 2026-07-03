@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FirebaseAuth</string>
+    <string name="firebase_logintxt">Firebase Login</string>
+    <string name="registerbtnMain">Register</string>
+    <string name="loginBtnMain">Login</string>
+    <string name="enter_password_reg">Enter Password</string>
+    <string name="registerbtn_reg">Register</string>
+    <string name="register_txt">Register</string>
+    <string name="password_lgn">Password</string>
+    <string name="loginbtn_lgn">Login</string>
+    <string name="new_user_register_here">New user? Register here</string>
+    <string name="email_address_lgn">Email Address</string>
+    <string name="loginheading_lgn">Login</string>
+</resources>
